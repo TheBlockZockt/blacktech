@@ -1,6 +1,6 @@
 {
   {
-    PlaceID = 0123456789,
-    Products = {"Cloak"}
+    "placeid":123456789,
+    "products":["Cloak"]
   }
 }
